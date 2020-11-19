@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Africa's Adventure</title>
+        <link rel="stylesheet" href="adventure.css"  type="text/css">
+            <link rel="icon" href="images/monkey.jpg" type="image/jpg" sizes="16x16">
+
+    </head>
+    <body>
+        <h1>
+          <a id="return" href="continents.html"> Go Back</a>
+        </h1>
+        <h2>AFRICA</h2>
+        
+        <hr>
+        <div class="list">
+		    <div class="trip" id="zambia">
+			    <div class="tripIn">
+					<div class="loc">
+					</div>
+					<div class="locName">Zambia</div>
+			    </div>
+			</div>
+					    
+			<div class="trip" id="morocco">
+			    <div class="tripIn">
+					<div class="loc">
+					</div>
+					<div class="locName">Morocco</div>
+			    </div>
+			</div>
+			
+			<div class="trip" id="kenya">
+			    <div class="tripIn">
+					<div class="loc">
+					</div>
+					<div class="locName">Kenya</div>
+			    </div>
+			</div>
+					    
+			<div class="trip" id="ivory">
+			    <div class="tripIn">
+					<div class="loc">
+					</div>
+					<div class="locName">Cote d'Ivoire</div>
+			    </div>
+			</div>
+
+      <div class="trip" id="botswana">
+			    <div class="tripIn">
+					<div class="loc">
+					</div>
+					<div class="locName">Botswana</div>
+			    </div>
+			</div>
+		</div>
+        
+    </body>
+
+</html>
